@@ -6,7 +6,7 @@
 
 ---
 
-### Business Problem
+### Business Problem:
 
 With Unsupervised Learning methods (Kmeans, Hierarchical Clustering), it is desired to divide customers into clusters and observe their behavior.
 
